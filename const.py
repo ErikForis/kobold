@@ -1,0 +1,8 @@
+DOMAIN = "kobold"
+NUKLIO_BASE_URL = "https://nucleo.ksecosys.com:4443/vendors/vorwerk/robots"
+TOKEN_TYPE = "Auth0Bearer"
+BEEHIVE_BASE_URL = "https://beehive.ksecosys.com/"
+BEEHIVE_MAP_BASE_URL = BEEHIVE_BASE_URL + "users/me/robots"
+MASSAGES_PATH = "/messages"
+PERSISTANT_MAP_PATH = "/persistent_maps"
+DASHBORD_PATH = "/dashboard"
